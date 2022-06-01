@@ -1,0 +1,1 @@
+20220601	11:24:23	b23e9b5d-d9bc-419d-8b95-64b789540b00	Log event emitted
